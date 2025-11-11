@@ -97,4 +97,4 @@ To replicate this analysis pipeline locally, follow these steps:
 
 -----
 
-Thank you for reviewing my work. For questions or further discussion, please contact me at [Your Email Address].
+Thank you for reviewing my work. For questions or further discussion, please contact me at [sriprasathshankar03@gmail.com].
